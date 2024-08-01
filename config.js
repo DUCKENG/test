@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho DUCKENG <3',
     reply: 'DUCKENG là một người bạn tuyệt vời, một vài câu không thể nói hết về bạn <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Nhớ gửi quà sinh nhật qua stk ngân hàng cho mình nhá.',
+    messDesc: 'Gửi những lời chúc qua tin nhắn cho mình nhá.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/ducanh070' //link mess của các bạn. VD: https://m.me/ducanh070
 }
